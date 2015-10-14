@@ -1,0 +1,11 @@
+{
+    "require": {
+        "serhatozles/yii2-simplehtmldom": "dev-master",
+        "xr0m3oz/yii2-simpl_html_dom": "dev-master",
+        "keltstr/yii2-simplehtmldom": "dev-master",
+        "yiisoft/yii2-codeception": "^2.0",
+        "codeception/codeception": "2.0.*",
+        "codeception/specify": "*",
+        "codeception/verify": "*"
+    }
+}
